@@ -1,4 +1,4 @@
-## Welcome to My New Site
+## Welcome to My New Site ![Logo](img/av11j.png)
 
 [Previews](previews.md)
 
