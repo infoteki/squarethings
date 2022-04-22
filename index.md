@@ -1,4 +1,5 @@
-## Welcome to My New Site ![Logo](img/a11j.png)
+## Welcome to My New Site 
+<img src="img/a11j.png" alt="site logo" width=100>
 
 [Previews](previews.md)
 
