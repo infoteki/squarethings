@@ -1,4 +1,3 @@
-# InfoTeki
 ## Welcome to My New Site 
 <img src="img/a11j.png" alt="site logo" width=100>
 
